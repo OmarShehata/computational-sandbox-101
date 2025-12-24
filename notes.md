@@ -20,6 +20,7 @@ Applications
 - Substack proxy (basic server / writing to disk or DB)
 - Live survey / collecting data
 - Network visualizations for Katt / twitter data
+- How to call an LLM API / use a nomic local model
 
 Deployments
 
@@ -36,3 +37,9 @@ Computational sandbox games
 Sources of inspiration
 
 - https://x.com/poetengineer__
+
+References / books
+
+- Eloquent Javascript https://eloquentjavascript.net/00_intro.html
+- Code: The Hidden Language of Computer Hardware and Software
+  - https://en.wikipedia.org/wiki/Code:_The_Hidden_Language_of_Computer_Hardware_and_Software
