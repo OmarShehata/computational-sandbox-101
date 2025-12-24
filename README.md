@@ -10,7 +10,12 @@ Fundamentals of how to code for the purpose of thinking &amp; communicating in s
 - CodePen / JSFiddle
 - StackBlitz for backend? It seems to be great, super fast, but NOT actually shareable
   - Glitch alternatives https://support.glitch.com/t/glitch-alternative/76510/7
-  - Val town / Render 
+  - Val town / Render?
+    - ValTown has an SQLite for every instance?? I'm sold!  
 - Using Google Sheets or Google Calendar as a simple database backend
 - Simple OAuth
 - Where to actually deploy? CloudFlare? 
+
+Computational sandbox games
+
+- https://store.steampowered.com/app/3401490/Replicube/
