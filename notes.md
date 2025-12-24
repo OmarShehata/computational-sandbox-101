@@ -8,7 +8,8 @@
 - StackBlitz for backend? It seems to be great, super fast, but NOT actually shareable
   - Glitch alternatives https://support.glitch.com/t/glitch-alternative/76510/7
   - Val town / Render?
-    - ValTown has an SQLite for every instance?? I'm sold!  
+    - ValTown has an SQLite for every instance?? I'm sold! 
+- Google Colab for data science things
 - Using Google Sheets or Google Calendar as a simple database backend
 - Simple OAuth
 - Where to actually deploy? CloudFlare?
