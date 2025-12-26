@@ -29,4 +29,5 @@ This class is designed to be the smallest amount of fundamental knowledge that c
 
 The goal is to get to a point where even if you aren't writing code, you can tell which types of things are very easy, which are very hard, and why.
 
-<img width="300" height="895" alt="image" src="https://github.com/user-attachments/assets/19a2eec0-8355-432e-bb2b-a293f133590a" />
+<a href="https://xkcd.com/1425/"><img width="200" height="895" alt="image" src="https://github.com/user-attachments/assets/19a2eec0-8355-432e-bb2b-a293f133590a" /></a>
+
