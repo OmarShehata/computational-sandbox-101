@@ -58,8 +58,8 @@ References / books
 
 ----
 
-students: Katt, Cal, Owlcyon, ISeePattern
-TA's: Marianne, Caleb, Walter
+students: Katt, Cal, Owlcyon, ISeePattern, Sunriseoath
+TA's: Marianne, Caleb, Walter, Joshua
 
 ---
 

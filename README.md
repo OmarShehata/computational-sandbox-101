@@ -31,3 +31,10 @@ The goal is to get to a point where even if you aren't writing code, you can tel
 
 <a href="https://xkcd.com/1425/"><img width="200" height="895" alt="image" src="https://github.com/user-attachments/assets/19a2eec0-8355-432e-bb2b-a293f133590a" /></a>
 
+----
+
+**Recommended readings**
+
+- Introduction of _["Eloquent Javascript"](https://eloquentjavascript.net/00_intro.html) by Marijn Haverbeke_
+- Unraveling the JPEG (essay) - https://parametric.press/issue-01/unraveling-the-jpeg/
+- _Code: The Hidden Language of Computer Hardware and Software_ by Charles  (which chapters are most relevant?)
