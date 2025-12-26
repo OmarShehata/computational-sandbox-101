@@ -220,6 +220,8 @@ grid[`${x}_${y}`] = currentColor
 Make it `currentColor + 1`. This will make each square cycle through the color wheel, relative to wherever it started from.
 
 > **Challenge:** instead of random initial colors, can you make the screen be a smooth rainbow from left to right?
+>
+> What about just making HALF of the screen be a rainbow, and the other half be a random mix of colors?
 
 ![](../media/rainbow.png)
 
